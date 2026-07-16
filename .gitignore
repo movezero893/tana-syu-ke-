@@ -1,0 +1,11 @@
+# Node
+windows-tool/node_modules/
+windows-tool/package-lock.json
+
+# Tauri / Rust build outputs
+windows-tool/src-tauri/target/
+windows-tool/dist/
+
+# OS
+.DS_Store
+Thumbs.db
